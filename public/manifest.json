@@ -12,7 +12,7 @@
         "src": "/vercel.svg",
         "type": "image/png",
         "sizes": "192x192",
-        "purpose": "maskable"
+        "purpose": "any"
       },
       {
         "src": "/vercel.svg",
